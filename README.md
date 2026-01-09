@@ -1,4 +1,4 @@
-# 🔥 Kayraze
+# ❖ Kayraze
 
 I'm an **aspiring software developer** passionate about building scalable and efficient solutions.  
 I enjoy working with **modern web technologies**, optimizing performance, and solving complex problems.  
